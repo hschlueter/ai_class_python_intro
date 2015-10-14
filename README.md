@@ -10,3 +10,11 @@ Units (non-interactive version):
 - [00: Intro](http://nbviewer.ipython.org/github/sotte/ai_class_python_intro/blob/master/00_Intro.ipynb)
 - [01: Python](http://nbviewer.ipython.org/github/sotte/ai_class_python_intro/blob/master/01_Python.ipynb)
 - [02: Git](http://nbviewer.ipython.org/github/sotte/ai_class_python_intro/blob/master/02_git.ipynb)
+
+Or use the interactive ipython notebook version:
+```
+$ ipython notebook
+```
+
+If you have problems with python, the ipython notebook, and dependencies please
+use anoconda. Download it from: https://www.continuum.io/downloads
