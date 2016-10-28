@@ -6,14 +6,15 @@ class, i.e., you should be able to use python to implement your solution,
 execute the unittests/doctests, and use git to get new exercises and publish
 your solutions.
 
-Units (non-interactive version):
-- [00: Intro](http://nbviewer.ipython.org/github/hschlueter/ai_class_python_intro/blob/master/00_Intro.ipynb)
-- [01: Python](http://nbviewer.ipython.org/github/hschlueter/ai_class_python_intro/blob/master/01_Python.ipynb)
-- [02: Git](http://nbviewer.ipython.org/github/hschlueter/ai_class_python_intro/blob/master/02_git.ipynb)
+[non-interactive version](https://nbviewer.jupyter.org/github/hschlueter/ai_class_python_intro/blob/master/ai_getting_started.ipynb)
 
 Or use the interactive ipython notebook version:
 ```
-$ ipython notebook
+$ jupyter notebook
+```
+if you want to run this with slides you need the Slide-Mode NB-Extension: [RISE](https://github.com/damianavila/RISE)
+```
+$ conda install -c damianavila82 rise
 ```
 
 If you have problems with python, the ipython notebook, and dependencies please
